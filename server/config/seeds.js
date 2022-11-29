@@ -21,7 +21,7 @@ db.once('open', async () => {
         'ABC description',
       image: '',
       category: categories[0]._id, 
-      price: 2.99,
+      price: 100000,
       quantity: 500,
     },
     {
@@ -30,7 +30,7 @@ db.once('open', async () => {
         'XYZ description',
       image: '',
       category: categories[0]._id,
-      price: 3.99,
+      price: 100000,
       quantity: 400,
     },
     {
@@ -39,7 +39,7 @@ db.once('open', async () => {
         'ABC Shoes description',
       image: '',
       category: categories[1]._id,
-      price: 2.99,
+      price: 100000,
       quantity: 300,
     },
     {
@@ -48,7 +48,7 @@ db.once('open', async () => {
         'XYZ Shoes description',
       image: '',
       category: categories[1]._id,
-      price: 4.99,
+      price: 100000,
       quantity: 100,
     },
     {
@@ -57,7 +57,7 @@ db.once('open', async () => {
         'ABC Belts description',
       image: '',
       category: categories[2]._id,
-      price: 3.99,
+      price: 100000,
       quantity: 200,
     },
     {
@@ -66,7 +66,7 @@ db.once('open', async () => {
         'XYZ Belts description',
       image: '',
       category: categories[2]._id,
-      price: 4.99,
+      price: 100000,
       quantity: 300,
     },
     {
@@ -75,7 +75,7 @@ db.once('open', async () => {
         'UVW Sunglasses description',
       image: '',
       category: categories[0]._id,
-      price: 2.99,
+      price: 100000,
       quantity: 100,
     },
     {
@@ -84,7 +84,7 @@ db.once('open', async () => {
         'UVW Shoes description',
       image: '',
       category: categories[1]._id,
-      price: 4.99,
+      price: 100000,
       quantity: 200,
     },
     {
@@ -93,7 +93,7 @@ db.once('open', async () => {
         'UVW Belts description',
       image: '',
       category: categories[2]._id,
-      price: 3.99,
+      price: 100000,
       quantity: 400,
     },
     {
@@ -102,7 +102,7 @@ db.once('open', async () => {
         'GHI Sunglasses description',
       image: '',
       category: categories[0]._id,
-      price: 4.99,
+      price: 100000,
       quantity: 550,
     },
     {
@@ -111,7 +111,7 @@ db.once('open', async () => {
         'GHI Shoes description',
       image: '',
       category: categories[1]._id,
-      price: 3.99,
+      price: 100000,
       quantity: 300,
     },
     {
@@ -120,7 +120,7 @@ db.once('open', async () => {
         'GHI Belts description',
       image: '',
       category: categories[2]._id,
-      price: 2.99,
+      price: 100000,
       quantity: 350,
     },
 
