@@ -1,8 +1,8 @@
 :root {
-  --primary: #e462d1;
+  --primary: #e462d088;
   --secondary: rgba(128, 0, 128, 0.458);
-  --tertiary: #b12704;
-  --light: #fafafa;
+  --tertiary: #ad8479;
+  --light: white;
   --dark: #272f32;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -34,7 +34,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: fantasy;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
