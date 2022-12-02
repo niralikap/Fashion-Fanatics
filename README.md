@@ -1,6 +1,12 @@
 # Fashion-Fanatics
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
+## User Story
+
+```md
+As a fashion lover, I want to be able to have a single stop shop for all the accessories. If you are a fashion fanatic, you will love this app.
+```
+
 ## Description
 FashionFantatics is an ecommerce application meant for browsing and purchasing high-end women's accessories. This application allows you to filter by product category, add products to cart, manage the desired product quantity in the cart, checkout a purchase, and view order history. This application is a MERN stack application using MongoDB, Node.js, GraphQL, Apollo Server, React, as well as Stripe for the checkout process.
 
@@ -103,3 +109,23 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Contributing
 
 Dina Eissa, Joshua Nelson, Nirali Parmar, Rachael Bailey, Noah Westberry
+
+The app is successfully deployed to Heroku.
+
+## Screenshots
+
+![Image](./client/src/assets/screenshot1.jpg)
+![Image](./client/src/assets/screenshot2.jpg)
+![Image](./client/src/assets/screenshot3.jpg)
+![Image](./client/src/assets/screenshot4.jpg)
+![Image](./client/src/assets/screenshot5.jpg)
+![Image](./client/src/assets/screenshot6.jpg)
+![Image](./client/src/assets/screenshot7.jpg)
+![Image](./client/src/assets/screenshot8.jpg)
+![Image](./client/src/assets/screenshot9.jpg)
+![Image](./client/src/assets/screenshot10.jpg)
+![Image](./client/src/assets/screenshot11.jpg)
+![Image](./client/src/assets/screenshot12.jpg)
+![Image](./client/src/assets/screenshot13.jpg)
+![Image](./client/src/assets/screenshot14.jpg)
+![Image](./client/src/assets/screenshot15.jpg)
