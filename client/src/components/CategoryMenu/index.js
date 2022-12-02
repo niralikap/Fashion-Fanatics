@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import Dropdown from "react-bootstrap/Dropdown";
+//import Dropdown from "react-bootstrap/Dropdown";
 
 import { useQuery } from "@apollo/client";
 import { useStoreContext } from "../../utils/GlobalState";
@@ -45,7 +45,7 @@ function CategoryMenu() {
 
   return (
     <div>
-      {/* <h2>Choose a Category:</h2>
+      <h2>Choose a Category:</h2>
       {categories.map((item) => (
         <button
           key={item._id}
@@ -55,8 +55,8 @@ function CategoryMenu() {
         >
           {item.name}
         </button>
-      ))} */}
-      <Dropdown>
+      ))}
+      {/* <Dropdown>
         <Dropdown.Toggle variant="success" id="dropdown-basic">
           Categories
         </Dropdown.Toggle>
@@ -73,7 +73,7 @@ function CategoryMenu() {
             </Dropdown.Item>
           ))}
         </Dropdown.Menu>
-      </Dropdown>
+      </Dropdown> */}
     </div>
   );
 }
