@@ -27,5 +27,8 @@
     "react-router-dom": "^6.4.3",
     "serve": "^14.1.2",
     "stripe": "^11.1.0"
+  },
+  "engines": {
+    "node": "16.17.0"
   }
 }
