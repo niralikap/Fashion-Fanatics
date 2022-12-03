@@ -112,6 +112,11 @@ Dina Eissa, Joshua Nelson, Nirali Parmar, Rachael Bailey, Noah Westberry
 
 The app is successfully deployed to Heroku.
 
+The link to heroku app is:
+
+https://young-reaches-17728.herokuapp.com/
+
+
 ## Screenshots
 
 ![Image](./client/src/assets/screenshot1.jpg)
